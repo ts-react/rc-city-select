@@ -1,6 +1,6 @@
 # rc-city-select
 
-> 组件在ant-design的[cascader](https://ant.design/components/cascader-cn/)添加城市数据
+> 组件在ant-design的[cascader](https://ant.design/components/cascader-cn/)组件基础上添加城市数据
 
 ## 使用
 
