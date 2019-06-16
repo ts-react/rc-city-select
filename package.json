@@ -31,7 +31,8 @@
   },
   "dependencies": {
     "@jiumao/china-city-data": "^0.0.1",
-    "antd": "^3.19.3"
+    "antd": "^3.19.3",
+    "classnames": "^2.2.6"
   },
   "devDependencies": {
     "@types/react": "^16.8.20",
