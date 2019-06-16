@@ -1,5 +1,5 @@
 {
-  "name": "@jiumao/rc-city-select",
+  "name": "rc-city-select",
   "version": "0.0.1",
   "description": "中国城市级联选择组件",
   "main": "dist/index.js",
